@@ -10,10 +10,12 @@
 </a>
 <span style='font-family: "Comic Sans MS", sans-serif; font-size: 40px;'><strong>About me</strong></span>
 <br></br>
+
 - 💼 <span style='font-family: "Comic Sans MS", sans-serif; font-size: 18px;'>I&acute;m a software engineering student at ICESI University, Cali-Colombia</span>
+
 - 👓 <span style='font-family: "Comic Sans MS", sans-serif; font-size: 18px;'>I work as an infrastructure and communications assistant. A focus on cloud server maintenance and security. Advanced knowledge in Linux</span>
 
-- 👯 <span style='font-family: "Comic Sans MS", sans-serif; font-size: 18px;'>I am interested in OOP especially the backend and cybersecurity</span>
+- 💻 <span style='font-family: "Comic Sans MS", sans-serif; font-size: 18px;'>I am interested in OOP especially the backend and cybersecurity</span>
 
 - 📨 [stiven2201@gmail.com](mailto:stiven2201@gmail.com)
 
@@ -77,10 +79,10 @@
 </br>
 
 <h2 style="text-align: center;">Let&apos;s Connect</h2>
-<p style="text-align: center;">
-        <a href="mailto:stiven2201@gmail.com"><img align="left" height="50px" width="50px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="Gmail"/></a>
-        <a href="https://github.com/StivenArboleda"><img align="left" height="50px" width="50px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub"/></a>
-        <a href="https://www.instagram.com/jhones.2203/?hl=es"><img align="left" height="50px" width="50px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg"             alt="Instagram"/></a>
+  <p style="text-align: center;">
+        <a href="mailto:stiven2201@gmail.com"><img align="center" height="50px" width="50px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="Gmail"/></a>
+        <a href="https://github.com/StivenArboleda"><img align="center" height="50px" width="50px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub"/></a>
+        <a href="https://www.instagram.com/jhones.2203/?hl=es"><img align="center" height="50px" width="50px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg"             alt="Instagram"/></a>
   
   
- </p> 
+   </p> 
