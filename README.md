@@ -4,6 +4,9 @@
   </span>
   </h1>
 
+**VISITOR COUNT**<br />
+
+![Visitor Count](https://profile-counter.glitch.me/{StivenArboleda}/count.svg)
 
 <a target="_blank">
   <img align="right" height="330" width="300" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
