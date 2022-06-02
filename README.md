@@ -86,7 +86,4 @@
   
   
    </p> 
-   
-   **VISITOR COUNT**<br />
 
-![Visitor Count](https://profile-counter.glitch.me/{StivenArboleda}/count.svg)
