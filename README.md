@@ -13,9 +13,9 @@
 
 - 💼 <span style='font-family: "Comic Sans MS", sans-serif; font-size: 18px;'>I&acute;m a software engineering student at ICESI University, Cali-Colombia</span>
 
-- 👓 <span style='font-family: "Comic Sans MS", sans-serif; font-size: 18px;'>I work as an infrastructure and communications assistant. A focus on cloud server maintenance and security. Advanced knowledge in Linux</span>
+- 👓 <span style='font-family: "Comic Sans MS", sans-serif; font-size: 18px;'>I currently work as a Java Cloud Developer. I have experience in infrastructure and cybersecurity.</span>
 
-- 💻 <span style='font-family: "Comic Sans MS", sans-serif; font-size: 18px;'>I am interested in OOP especially the backend and cybersecurity</span>
+- 💻 <span style='font-family: "Comic Sans MS", sans-serif; font-size: 18px;'>I am deeply interested in development, both backend and frontend. I am in constant training.</span>
 
 - 📨 [stiven2201@gmail.com](mailto:stiven2201@gmail.com)
 
