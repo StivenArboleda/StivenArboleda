@@ -11,11 +11,11 @@
 <span style='font-family: "Comic Sans MS", sans-serif; font-size: 40px;'><strong>About me</strong></span>
 <br></br>
 
-- 💼 <span style='font-family: "Comic Sans MS", sans-serif; font-size: 18px;'>I&acute;m a software engineering student at ICESI University, Cali-Colombia</span>
+- 💼 <span style='font-family: "Comic Sans MS", sans-serif; font-size: 18px;'>Soy ingeniero de sistemas graduado de la Universidad Icesi</span>
 
-- 👓 <span style='font-family: "Comic Sans MS", sans-serif; font-size: 18px;'>I currently work as a Java Cloud Developer. I have experience in infrastructure and cybersecurity.</span>
+- 👓 <span style='font-family: "Comic Sans MS", sans-serif; font-size: 18px;'>Actualmente soy ingeniero de integraciones, con conocimientos en DevOps, infraestructura en la nube y desarrollo.</span>
 
-- 💻 <span style='font-family: "Comic Sans MS", sans-serif; font-size: 18px;'>I am deeply interested in development, both backend and frontend. I am in constant training.</span>
+- 💻 <span style='font-family: "Comic Sans MS", sans-serif; font-size: 18px;'>Estoy profundamente interesado en el desarrollo, tanto backend como frontend. Estoy en constante formación.</span>
 
 - 📨 [stiven2201@gmail.com](mailto:stiven2201@gmail.com)
 
@@ -62,8 +62,6 @@
 
 <img align="left" height="50px" width="50px" alt="SpringTools" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
 
-<img align="left" height="50px" width="50px" alt="Sublime" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
-
 <br>
 </br>
 
@@ -82,8 +80,5 @@
   <p style="text-align: center;">
         <a href="mailto:stiven2201@gmail.com"><img align="center" height="50px" width="50px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="Gmail"/></a>
         <a href="https://github.com/StivenArboleda"><img align="center" height="50px" width="50px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub"/></a>
-        <a href="https://www.instagram.com/jhones.2203/?hl=es"><img align="center" height="50px" width="50px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg"             alt="Instagram"/></a>
-  
-  
+        <a href="https://www.linkedin.com/in/stivenar/"><img align="center" height="50px" width="50px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"             alt="LinkedIn"/></a>
    </p> 
-
