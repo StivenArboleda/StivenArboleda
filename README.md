@@ -79,6 +79,6 @@
 <h2 style="text-align: center;">Let&apos;s Connect</h2>
   <p style="text-align: center;">
         <a href="mailto:stiven2201@gmail.com"><img align="center" height="50px" width="50px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="Gmail"/></a>
-        <a href="https://github.com/StivenArboleda"><img align="center" height="50px" width="50px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub"/></a>
+         <a href="https://github.com/StivenArboleda"><img align="center" height="50px" width="50px" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="GitHub"/></a>
         <a href="https://www.linkedin.com/in/stivenar/"><img align="center" height="50px" width="50px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"             alt="LinkedIn"/></a>
    </p> 
