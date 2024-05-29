@@ -17,10 +17,10 @@
 
 - 💻 <span style='font-family: "Comic Sans MS", sans-serif; font-size: 18px;'>Estoy profundamente interesado en el desarrollo, tanto backend como frontend. Estoy en constante formación.</span>
 
-- 📨 [stiven2201@gmail.com](mailto:stiven2201@gmail.com)
+- 📨 [stiven2201@gmail.com](mailto:stiven2201@gmail.com) || [Mi portafolio](https://stiven-arboleda.vercel.app/)
 
 
-<span style='font-family: "Comic Sans MS", sans-serif; font-size: 28px;'><strong>About my work</strong></span>
+<span style='font-family: "Comic Sans MS", sans-serif; font-size: 28px;'><strong>Acerca de mi trabajo</strong></span>
 <table border="0" align="center" >
 <tr border="0">
 <td width="50%" align="center" >
